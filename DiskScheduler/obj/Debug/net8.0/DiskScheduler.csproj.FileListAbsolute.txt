@@ -1,0 +1,15 @@
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/obj/Debug/net8.0/DiskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/obj/Debug/net8.0/DiskScheduler.AssemblyInfoInputs.cache
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/obj/Debug/net8.0/DiskScheduler.AssemblyInfo.cs
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/obj/Debug/net8.0/DiskScheduler.csproj.CoreCompileInputs.cache
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/obj/Debug/net8.0/DiskScheduler.sourcelink.json
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/bin/Debug/net8.0/DiskScheduler
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/bin/Debug/net8.0/DiskScheduler.deps.json
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/bin/Debug/net8.0/DiskScheduler.runtimeconfig.json
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/bin/Debug/net8.0/DiskScheduler.dll
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/bin/Debug/net8.0/DiskScheduler.pdb
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/obj/Debug/net8.0/DiskScheduler.dll
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/obj/Debug/net8.0/refint/DiskScheduler.dll
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/obj/Debug/net8.0/DiskScheduler.pdb
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/obj/Debug/net8.0/DiskScheduler.genruntimeconfig.cache
+/Users/a1/Developer/DiskSchedulerImulation/DiskScheduler/obj/Debug/net8.0/ref/DiskScheduler.dll
